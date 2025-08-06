@@ -7,7 +7,12 @@
 ---
 
 ## 📂 Repo Structure
-
+day01-variables.py # Variables and Data Types
+day02-loops.py # Loops practice
+day03-functions.py # Functions practice
+projects/ # Folder containing mini projects
+mini_project1.py
+mini_project2.py
 ---
 
 ## 📅 Daily Progress Log

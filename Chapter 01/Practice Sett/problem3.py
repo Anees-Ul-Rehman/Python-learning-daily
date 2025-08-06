@@ -1,10 +1,7 @@
-import pyttsx3
-engine = pyttsx3.init()
+# Q:3. Install an external module and use it to perform an operation of your interest.  
 
+import pyjokes
+joke = pyjokes.get_joke()
 
-
-
-engine.say("Hey I am Anees Ul Rehman what about you and whay is your problem")
-
-
-engine.runAndWait()
+# it will print random joke
+print(joke)

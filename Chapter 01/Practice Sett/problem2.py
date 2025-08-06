@@ -1,3 +1,5 @@
+# Q:02 Use REPL and print the table of 5 using it. 
+
 # Windows PowerShell
 # Copyright (C) Microsoft Corporation. All rights reserved.
 

@@ -8,12 +8,12 @@
 
 
 ## 📅 Daily Progress Log
-| Day  | Topic Covered           | Description                                      |
+| Chapter  | Topic Covered           | Description                                      |
 |------|--------------------------|--------------------------------------------------|
-| 01   | Variables & Data Types   | Learned about integers, floats, strings, and lists. |
-| 02   | Loops                    | Practiced for loops and while loops.            |
-| 03   | Functions                | Created reusable functions with parameters.     |
-| ...  | ...                      | ...                                              |
+| 01   | MODULES, COMMENTS & PIP  | print,Type of module and comments, pip and basic start. |
+| 02   | VARIABLES AND DATATYPE                     | Practiced for variable and while datatype etc.                        |
+| 03   | Strings and Escape sequence characters                | learned strings and escape and their work.              |
+|      |                       |                                                           |
 
 ---
 

@@ -1,3 +1,8 @@
+# TYPE() FUNCTION AND TYPECASTING.  
+
+# type() function is used to find the data type of a given variable in python. 
+
+
 # Integers Classes
 a=31
 t=type(a)

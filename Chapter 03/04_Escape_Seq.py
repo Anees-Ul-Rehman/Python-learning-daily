@@ -1,4 +1,11 @@
-# so if we want a new line and we do like that so its incorrect way 
+# ESCAPE SEQUENCE CHARACTERS 
+ 
+# Sequence of characters after backslash "\" → Escape Sequence characters.
+
+
+
+ 
+#  so if we want a new line and we do like that so its incorrect way 
 # a="Anees is a good boy 
 # but not a bad boy."
 

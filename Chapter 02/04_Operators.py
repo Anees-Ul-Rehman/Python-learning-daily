@@ -1,3 +1,12 @@
+# OPERATORS IN PYTHON
+
+# Following are some common operators in python: 
+# 1. Arithmetic operators: +, -, *, / etc. 
+# 2. Assignment operators:  =, +=, -= etc. 
+# 3. Comparison operators: ==, >, >=, <,  != etc. 
+# 4. Logical operators: and, or, not. 
+
+
 # Arithmetic Operators
 a=45
 b=87
@@ -8,9 +17,9 @@ print(c)
 a=4-2+8 # Assign 4-3 in a
 print(a)
 b=9
-# b+=8 # Increment the value of b by 8 then assign it to be
-# b-=8 # Decrement the value of b by 8 then assign it to be
-# b*=8 # Multiplement the value of b by 8 then assign it to be
+b+=8 # Increment the value of b by 8 then assign it to be
+b-=8 # Decrement the value of b by 8 then assign it to be
+b*=8 # Multiplement the value of b by 8 then assign it to be
 b/=8 # Division the value of b by 8 then assign it to be
 print(b,b+c)
 
@@ -37,7 +46,7 @@ print("True and False is ", True and False)
 print("True and False is ", False and True)
 print("True and False is ", False and False)
 
-# logical Operators 'not' will do like this
+# logical Operators of 'not' will do like this
 # I mean jo true ko false aur false ko true bna de wo logical 'not operator' hai 
 print(not(True))
 print(not(False)) 

@@ -22,6 +22,9 @@
 - **Python Basics to advance:** Start from very basic like varible, loops, Functions, Lists, Dictionaries so on.
 - **Mini Projects:**  Inshallah after complete python like Calculator, Guess the Number, To-Do List App
 - **Upcoming Topics:** Automotion, Scrapping, Web flesk, AI ML.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anees-Ul-Rehman&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anees-Ul-Rehman&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anees-Ul-Rehman&theme=tokyonight)
 
 ---
 

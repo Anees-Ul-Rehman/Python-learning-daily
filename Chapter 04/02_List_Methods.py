@@ -11,32 +11,32 @@ f=l1.remove(21)    # Will remove 21 from the list.
 
 print(l1)
 
-ie= "i.e on .append"
+ie= "Example on .append"
 Friends=["apple", "banana", "grapes", "lemon", 123, 34.3]
 print(Friends)
 Friends.append("Anees UL Rehman")
 print(ie)
 print(Friends)
 
-ie = "i.e on .sort" 
+ie = "Example on .sort" 
 Friends=[1,54,23,34,2,3,4]
 Friends.sort()
 print(ie)
 print("Thsi is .sorted",Friends)
 
-ie= "i.e on .reverse"
+ie= "Example on .reverse"
 Friends=Friends
 Friends.reverse()
 print(ie)
 print("This is .reversed",Friends)
 
-ie= "i.e on .insert"
+ie= "Example on .insert"
 Friends=Friends
-Friends.insert(3,8)
+Friends.insert(3,8888888)
 print(ie)
 print("This is .inserted",Friends)
 
-ie= "i.e on .pop"
+ie= "Example on .pop"
 Friends=Friends
 Friends.pop(5)
 print(ie)

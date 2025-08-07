@@ -1,7 +1,7 @@
 # 🐍 Python Learning Daily
 
 🚀 **Daily Python Learning Journey**  
-📅 Starting Date: *[Your Start Date]*  
+📅 Starting Date: *[01/08/2025]*  
 📚 Practice, exercises, and mini-projects — one step closer to becoming a Python pro.
 
 ---

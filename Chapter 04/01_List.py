@@ -21,3 +21,5 @@ c=l1[1]
 e=l1[0:2]
 print(l1)
 print(b,c,e)
+
+ 

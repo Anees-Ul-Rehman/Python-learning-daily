@@ -13,14 +13,14 @@
 | 01   | MODULES, COMMENTS & PIP  | print,Type of module and comments, pip and basic start. |
 | 02   | VARIABLES AND DATATYPE                     | Practiced for variable and while datatype etc.                        |
 | 03   | Strings and Escape sequence characters                | learned strings and escape and their work.              |
-|      |                       |                                                           |
+| 04     |  In progress .....                     | ....                                                          | ...
 
 ---
 
 ## 🛠 Skills in Progress
-- **Python Basics:** Variables, Loops, Functions, Lists, Dictionaries
-- **Mini Projects:** Calculator, Guess the Number, To-Do List App
-- **Upcoming Topics:** File Handling, OOP, Modules, Automation
+- **Python Basics to advance:** Start from very basic like varible, loops, Functions, Lists, Dictionaries so on.
+- **Mini Projects:**  Inshallah after complete python like Calculator, Guess the Number, To-Do List App
+- **Upcoming Topics:** Automotion, Scrapping, Web flesk, AI ML.
 
 ---
 

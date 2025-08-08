@@ -14,7 +14,8 @@
 | 02       | VARIABLES AND DATATYPE                      | Practiced for variable and while datatype etc.          |
 | 03       | Strings and Escape sequence characters      | learned strings and escape and their work.              |
 | 04       | Lists and their methods, Tuple their methods| Learned how to use lists and list slicing and tuples.   | 
-| 05       | In progress.................................| .....................................................   | 
+| 05       | Dictionary, sets, and their methods         | Practiced sets method and dict methods                  | 
+| 06       | In progress                                 | .....................................................   | 
 
 ---
 

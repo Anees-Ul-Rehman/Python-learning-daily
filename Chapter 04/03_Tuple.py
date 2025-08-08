@@ -9,12 +9,13 @@ print(type(a))
 
 # TUPLE METHODS 
 # Consider the following tuple. 
-#  a.count (1): a count (1) will return number of times 1 occurs in a. 
-#  a.index (1) will return the index of first occurrence of 1 in a.
+#  a.count (7): a count (3) will return number of times 7 occurs in a. 
+#  a.index (7) will return the index of first occurrence of 7 in a.
 a = (1, 1, 7, 7, 7, 2) 
 print(a.count(7))
 print(a)
 print(a.index(7))
+print(len(a))
 
 # tuples are always with comma 
 a=1,2,3,4,5,6,7,8,9

@@ -9,13 +9,14 @@
 
 ## 📅 Daily Progress Log
 | Chapter  | Topic Covered                           | Description                                             |
-|----------|---------------------------------------------|---------------------------------------------------------|
-| 01       | MODULES, COMMENTS & PIP                     | print,Type of module and comments, pip and basic start. |
-| 02       | VARIABLES AND DATATYPE                      | Practiced for variable and while datatype etc.          |
-| 03       | Strings and Escape sequence characters      | learned strings and escape and their work.              |
-| 04       | Lists and their methods, Tuple their methods| Learned how to use lists and list slicing and tuples.   | 
-| 05       | Dictionary, sets, and their methods         | Practiced sets method and dict methods                  | 
+|----------|---------------------------------------------|--------------------------------------------------------------------------|
+| 01       | MODULES, COMMENTS & PIP                     | print,Type of module and comments, pip and basic start.                  |
+| 02       | VARIABLES AND DATATYPE                      | Practiced for variable and while datatype etc.                           |
+| 03       | Strings and Escape sequence characters      | learned strings and escape and their work.                               |
+| 04       | Lists and their methods, Tuple their methods| Learned how to use lists and list slicing and tuples.                    | 
+| 05       | Dictionary, sets, and their methods         | Practiced sets method and dict methods                                   | 
 | 06       | Conditional Expression                      | Learned about conditional expression and practiced conditional methods   | 
+| 07       | In progress                                 |......................................................................    | 
 
 ---
 

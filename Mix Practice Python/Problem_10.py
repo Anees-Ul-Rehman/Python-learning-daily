@@ -35,3 +35,13 @@ print(type(s))
 s=31
 b=str(s)
 print(type(b))
+
+
+text="Hello"
+text="g"+text[2:]
+print(text)
+# text[0]="h"
+
+
+range(5)
+print(range, type(range))

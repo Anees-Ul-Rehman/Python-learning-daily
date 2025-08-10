@@ -5,6 +5,7 @@
 
 # This will import module from system
 import math
+import random
 
 # math.sqrt find the square of 25
 print(math.sqrt(25))   # Output 5
@@ -14,3 +15,10 @@ print(math.pi) #output value of pi 3.141592653589793
 
 # 5* math.pi that will multiplay 5*pi value
 print(5* math.pi)  # OUtput 5*pi=15.707963267948966
+
+
+print(random.randint(1,100))
+
+
+
+

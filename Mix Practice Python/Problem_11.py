@@ -24,6 +24,52 @@ print(s1.union(s2)) # Output: {65, 1, 3, 4, 5, 6, 7, 8, 9, 2, 56}
 print(s1.intersection(s2)) # Output: {1, 3, 4, 5, 6, 7}
 
 
+n=int(input("Enter prime number: "))
+for i in range(2, n):
+    if(n%2)==0:
+        print("It's not prime number")
+        break
+else:
+    print("It's prime number")
+
+
+n=int(input("Enter number: "))
+for i in range(1, 11):
+    print(f"{i}X{n}={i*n}")
+
+
+n=int(input("Enter number: "))
+for i in range(1, 11):
+    print(f"{n}X{11-i}={n*(11-i)}")
+
+
+n=int(input("Enter number of line you want: "))
+for i in range(1, n+1):
+    print(" "*(n-i), end="")
+    print("*"*(2*i-1), end="")
+    print()
+
+
+n=int(input("Enter number of line: "))
+for i in range(1, n+1):
+    print("*"*i)
+
+
+n=int(input("Enter number of line: "))
+for i in range(1, n+1):
+    if(i==1 or i==n):
+        print("*"*n, end="")
+
+    else:
+        print("*", end="")
+        print(" "*(n-2), end="")
+        print("*", end="")
+    print()
+        
+
+
+
+
 
 
 
